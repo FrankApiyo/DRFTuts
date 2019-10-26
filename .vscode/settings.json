@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/user/.local/share/virtualenvs/restful-hjlKkUnG/bin/python",
+    "python.linting.banditEnabled": false,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
